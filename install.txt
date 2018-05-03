@@ -1,0 +1,4 @@
+conda create -n uic_2018 python=3.6
+
+# Demo II
+conda install -c conda-forge keras tensorflow
