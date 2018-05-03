@@ -1,4 +1,15 @@
+# General
 conda create -n uic_2018 python=3.6
+source activate uic_2018
+
+# Demo I
+conda install notebook
+conda install pandas
+conda install matplotlib
+conda install seaborn
+conda install scikit-learn
 
 # Demo II
 conda install -c conda-forge keras tensorflow
+
+source deactivate
